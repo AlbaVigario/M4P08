@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.button {
+  margin: 5px;
+  padding: 10px 20px;
+}
+
+.result input {
+  width: 280px;
+  height: 30px;
+  margin-bottom: 20px;
+}
+
+.keyboard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.keyboard-row {
+  display: flex;
+  justify-content: center;
+}
+
+.keyboard-bottom {
+  display: flex;
+  flex-direction: row;
+}
+
+
